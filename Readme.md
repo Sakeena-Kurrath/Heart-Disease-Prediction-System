@@ -19,7 +19,7 @@ images\patient-report-generated.png
    git clone https://github.com/your-username/heart-disease-detection.git
 2. cd heart-disease-detection
 3. pip install -r requirements.txt
-4. python main.py
+4. python Heart.py
 
 
 
